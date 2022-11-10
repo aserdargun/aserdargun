@@ -4,10 +4,10 @@
 
 I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in [UDEMY](https://www.udemy.com/courses/search/?src=ukw&q=%22fred+baptiste%22) courses. You can find below aggregated and rewritten Jupyter Notebook Files.
   * Part 1 : Functional Programming 
-    * [Section 02 : A Quick Refresher](https://github.com/aserdargun/DSML101/blob/main/Part_1_Section_02_A_Quick_Refresher.ipynb)
-    * [Section 03 : Variables and Memory](https://github.com/aserdargun/DSML101/blob/main/Part_1_Section_03_Variables_and_Memory.ipynb)
-    * [Section 04 : Numeric Types](https://github.com/aserdargun/DSML101/blob/main/Part_1_Section_04_Numeric_Types.ipynb)
-    * [Section 05 : Function Parameters](https://github.com/aserdargun/DSML101/blob/main/Part_1_Section_05_Function_Parameters.ipynb)
+    * [Section 02 : A Quick Refresher](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_02_A_Quick_Refresher.ipynb)
+    * [Section 03 : Variables and Memory](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_03_Variables_and_Memory.ipynb)
+    * [Section 04 : Numeric Types](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_04_Numeric_Types.ipynb)
+    * [Section 05 : Function Parameters](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_05_Function_Parameters.ipynb)
     * So on...
 <p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
 <p> <b>Python Deep Dive</b>
