@@ -22,10 +22,10 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
 <p> <b>Data Science</b>
     
   * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
-  * [RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation](https://www.kaggle.com/code/serdargundogdu/rfm-analysis-customer-segmentation)
-  * [BG-NBD and Gamma-Gamma Model: CLV (Customer Lifetime Value) Prediction](https://www.kaggle.com/code/serdargundogdu/bg-nbd-and-gamma-gamma-model-clv-prediction)
+  * [CRM Analytics: RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation](https://www.kaggle.com/code/serdargundogdu/rfm-analysis-customer-segmentation)
+  * [CRM Analytics: BG-NBD and Gamma-Gamma Model: CLV (Customer Lifetime Value) Prediction](https://www.kaggle.com/code/serdargundogdu/bg-nbd-and-gamma-gamma-model-clv-prediction)
   * [Titanic, My First Submission on Kaggle](https://www.kaggle.com/code/serdargundogdu/my-first-submission-titanic)
-  * So on...
+  * [Measurement Problems: Sorting Products, Sorting Reviews](https://medium.com/@aserdargun/measurement-problems-rating-products-sorting-products-sorting-reviews-9f6567f85f8d)
 <p>Stay Tuned...
  
 <p>Medium : https://medium.com/@aserdargun
