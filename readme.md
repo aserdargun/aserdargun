@@ -13,7 +13,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
 <p> <b>Python Deep Dive</b>
   
   * [Identifier Names](https://medium.com/@aserdargun/python-deep-dive-identifier-names-92ec00a35b0a)
-  * Variables and Memory
+  * [Variables and Memory](https://medium.com/@aserdargun/python-deep-dive-variables-and-memory-1c3f7c55d13)
   * Everything is an Object
   * Function Parameters
   * Global and Local Scopes
