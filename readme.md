@@ -1,7 +1,9 @@
 👋 Hi, I’m Serdar Gundogdu. - https://www.linkedin.com/in/serdargundogdu/
 <p>Innovator, Problem Solver, Python Geek, Data Scientist Candidate, Mechanical and Industrial Engineer, Production Manager, Lean Practitioner, Lean 6 Sigma Black Belt.
 <p>I’m interested in Python and Data Science. I have a good understanding on Python. I try to become a Data Scientist. I enrolled Data Science Certification Program and I am planning to take certificate in January 2023. I share my growth mindset on http://www.dsml101.com 
-
+ 
+You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c) plan on Notion
+ 
 I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in [UDEMY](https://www.udemy.com/courses/search/?src=ukw&q=%22fred+baptiste%22) courses. You can find below aggregated and rewritten Jupyter Notebook Files.
   * Part 1 : Functional Programming 
     * [Section 02 : A Quick Refresher](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_02_A_Quick_Refresher.ipynb)
