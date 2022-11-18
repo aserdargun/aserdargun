@@ -4,7 +4,7 @@
  
 You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c) plan on Notion
  
-I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in [UDEMY](https://www.udemy.com/courses/search/?src=ukw&q=%22fred+baptiste%22) courses. I am rewriting Jupyter Notebook Files to understand comprehensively and to obtain Aggregated version.
+I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in [UDEMY](https://www.udemy.com/courses/search/?src=ukw&q=%22fred+baptiste%22) courses. I am rewriting Jupyter Notebook Files to understand comprehensively and to obtain aggregated version that you can see below.
  
   * Part 1 : Functional Programming 
     * [Section 02 : A Quick Refresher](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_02_A_Quick_Refresher.ipynb)
