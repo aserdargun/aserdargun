@@ -11,8 +11,11 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
     * [Section 03 : Variables and Memory](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_03_Variables_and_Memory.ipynb)
     * [Section 04 : Numeric Types](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_04_Numeric_Types.ipynb)
     * [Section 05 : Function Parameters](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_05_Function_Parameters.ipynb)
+    * [Section 06 : First Class Functions](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_06_First_Class_Functions.ipynb)
+    * [Section 07 : Scopes, Closures and Decorators](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_07_Scopes_Closures_and_Decorators.ipynb)
     * So on...
-<p>I will write RECAP Articles on two main subjects: Python Deep Dive and Data Science
+ 
+<p>I write Medium and Kaggle Contents about Python Deep Dive and Data Science.
 <p> <b>Python Deep Dive</b>
   
   * [Identifier Names](https://medium.com/@aserdargun/python-deep-dive-identifier-names-92ec00a35b0a)
