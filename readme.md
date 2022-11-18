@@ -15,7 +15,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
     * [Section 07 : Scopes, Closures and Decorators](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_07_Scopes_Closures_and_Decorators.ipynb)
     * So on...
  
-<p>I write Medium and Kaggle Contents about Python Deep Dive and Data Science.
+<p>I create Medium and Kaggle Contents about Python Deep Dive and Data Science.
 <p> <b>Python Deep Dive</b>
   
   * [Identifier Names](https://medium.com/@aserdargun/python-deep-dive-identifier-names-92ec00a35b0a)
