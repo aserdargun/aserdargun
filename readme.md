@@ -22,7 +22,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * [Variables and Memory](https://medium.com/@aserdargun/python-deep-dive-variables-and-memory-1c3f7c55d13)
   * [Everything is an Object](https://medium.com/@aserdargun/python-deep-dive-everything-is-an-object-in-python-8c0595581e19)
   * [Function Parameters](https://medium.com/@aserdargun/python-deep-dive-function-parameters-3be82cf210be)
-  * Global and Local Scopes
+  * [Global, Local Scopes and Namespaces](https://medium.com/@aserdargun/python-deep-dive-global-local-scopes-and-namespaces-31c2c0c29d36)
   * Closures
   * So on...
 <p> <b>Data Science</b>
