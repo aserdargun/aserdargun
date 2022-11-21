@@ -13,6 +13,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
     * [Section 05 : Function Parameters](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_05_Function_Parameters.ipynb)
     * [Section 06 : First Class Functions](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_06_First_Class_Functions.ipynb)
     * [Section 07 : Scopes, Closures and Decorators](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_07_Scopes_Closures_and_Decorators.ipynb)
+    * [Section 08 : Tuples as Data Structures and Named Tuples](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_08_Tuples_as_Data_Structures_and_Named_Tuples.ipynb)
     * So on...
  
 <p>I create Medium and Kaggle Contents about Python Deep Dive and Data Science.
