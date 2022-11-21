@@ -26,6 +26,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * [Global, Local Scopes and Namespaces](https://medium.com/@aserdargun/python-deep-dive-global-local-scopes-and-namespaces-31c2c0c29d36)
   * [Free Variables and Closures](https://medium.com/@aserdargun/python-deep-dive-6-free-variables-and-closures-ef14d3e51209)
   * [Decorators](https://medium.com/@aserdargun/python-deep-dive-7-decorators-db5ca724dbaa)
+  * [Named Tuples](https://medium.com/@aserdargun/python-deep-dive-8-named-tuples-d0a4b0ea0460)
   * So on...
 <p> <b>Data Science</b>
  
