@@ -34,6 +34,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * [Aggregate and Merge Data with Pandas](https://www.kaggle.com/code/serdargundogdu/aggregate-and-merge-data-with-pandas)
   * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
   * [Beautiful Plotly Charts: Analysing the Android App Store](https://www.kaggle.com/code/serdargundogdu/beautiful-plotly-charts)
+  * [Linear Regression and Data Visualisation with Seaborn](https://www.kaggle.com/code/serdargundogdu/linear-regression-and-data-visualisation)
   * [Computation with NumPy and N-Dimensional Arrays](https://www.kaggle.com/code/serdargundogdu/computation-with-numpy-and-arrays)
   * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
   * [CRM Analytics: RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation](https://www.kaggle.com/code/serdargundogdu/rfm-analysis-customer-segmentation)
