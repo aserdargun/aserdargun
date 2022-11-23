@@ -38,6 +38,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * [Computation with NumPy and N-Dimensional Arrays](https://www.kaggle.com/code/serdargundogdu/computation-with-numpy-and-arrays)
   * [Analysing The Nobel Prize with Plotly, Matplotlib and Seaborn](https://www.kaggle.com/code/serdargundogdu/analysing-with-plotly-matplotlib-seaborn)
   * [Linear Regression and Data Visualisation with Seaborn](https://www.kaggle.com/code/serdargundogdu/linear-regression-and-data-visualisation)
+  * [The Tragic Discovery of Handwashing: t-Tests and Distributions](https://www.kaggle.com/code/serdargundogdu/the-tragic-discovery-t-tests-and-distributions)
   * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
   * [CRM Analytics: RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation](https://www.kaggle.com/code/serdargundogdu/rfm-analysis-customer-segmentation)
   * [CRM Analytics: BG-NBD and Gamma-Gamma Model: CLV (Customer Lifetime Value) Prediction](https://www.kaggle.com/code/serdargundogdu/bg-nbd-and-gamma-gamma-model-clv-prediction)
