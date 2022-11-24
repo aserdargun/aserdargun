@@ -6,7 +6,7 @@ You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b
  
 I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [Python Deep Dive series](https://github.com/aserdargun/python-deepdive) in [UDEMY](https://www.udemy.com/courses/search/?src=ukw&q=%22fred+baptiste%22) courses. I am rewriting Jupyter Notebook Files to digest and to get aggregated version that you can see below.
  
-  * Part 1 : Functional Programming 
+  * Part 1 : Functional Programming
     * [Section 02 : A Quick Refresher](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_02_A_Quick_Refresher.ipynb)
     * [Section 03 : Variables and Memory](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_03_Variables_and_Memory.ipynb)
     * [Section 04 : Numeric Types](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_04_Numeric_Types.ipynb)
@@ -14,7 +14,11 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
     * [Section 06 : First Class Functions](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_06_First_Class_Functions.ipynb)
     * [Section 07 : Scopes, Closures and Decorators](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_07_Scopes_Closures_and_Decorators.ipynb)
     * [Section 08 : Tuples as Data Structures and Named Tuples](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_08_Tuples_as_Data_Structures_and_Named_Tuples.ipynb)
-    * So on...
+    * [Section 09 : Modules, Packages and Namespaces](https://github.com/aserdargun/DSML101/blob/main/python/Part_1_Section_09_Modules_Packages_and_Namespaces.ipynb)
+ * Part 2 : Sequences, Iterables, Iterators, Generators, Context Managers and Generator-based Coroutines (Iteration, Generators)
+    * Coming soon...
+ * Part 3 : Dictionaries, Sets, and Related Data Structures (Hash Maps)
+ * Part 4 : Object Oriented Programming (OOP)
  
 <p>I create Medium and Kaggle Contents about Python Deep Dive and Data Science.
 <p> <b>Python Deep Dive</b>
