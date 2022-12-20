@@ -49,6 +49,7 @@ I have completed 139 hours of [@fredbaptiste](https://github.com/fbaptiste) - [P
   * [CRM Analytics: RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation](https://www.kaggle.com/code/serdargundogdu/rfm-analysis-customer-segmentation)
   * [CRM Analytics: BG-NBD and Gamma-Gamma Model: CLV (Customer Lifetime Value) Prediction](https://www.kaggle.com/code/serdargundogdu/bg-nbd-and-gamma-gamma-model-clv-prediction)
   * [Titanic, My First Submission on Kaggle](https://www.kaggle.com/code/serdargundogdu/my-first-submission-titanic)
+  * [House Prices: Advanced Regression Techniques](https://www.kaggle.com/code/serdargundogdu/house-prices-advanced-regression-techniques)
   * [Measurement Problems: Sorting Products, Sorting Reviews](https://medium.com/@aserdargun/measurement-problems-rating-products-sorting-products-sorting-reviews-9f6567f85f8d)
   * So on...
 <p>Stay Tuned...
