@@ -9,6 +9,14 @@ You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b
 # Become a Data Scientist Series
 ## -| Python For Data Science
  ### --| [Python Deep Dive](https://github.com/aserdargun/DSML101/blob/main/python)
+ * [Identifier Names](https://medium.com/@aserdargun/python-deep-dive-identifier-names-92ec00a35b0a)
+ * [Variables and Memory](https://medium.com/@aserdargun/python-deep-dive-variables-and-memory-1c3f7c55d13)
+ * [Everything is an Object](https://medium.com/@aserdargun/python-deep-dive-everything-is-an-object-in-python-8c0595581e19)
+ * [Function Parameters](https://medium.com/@aserdargun/python-deep-dive-function-parameters-3be82cf210be)
+ * [Global and Local Scopes](https://medium.com/@aserdargun/python-deep-dive-global-local-scopes-and-namespaces-31c2c0c29d36)
+ * [Free Variables and Closures](https://medium.com/@aserdargun/python-deep-dive-6-free-variables-and-closures-ef14d3e51209)
+ * [Decorators](https://medium.com/@aserdargun/python-deep-dive-7-decorators-db5ca724dbaa)
+ * [Named Tuples](https://medium.com/@aserdargun/python-deep-dive-8-named-tuples-d0a4b0ea0460)
  ### --| Numpy
  * [Computation with NumPy and N-Dimensional Arrays](https://www.kaggle.com/code/serdargundogdu/computation-with-numpy-and-arrays)
  ### -- Pandas
@@ -27,7 +35,11 @@ You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b
 ## -| Recommendation Systems
 
 ## -| Measurement Problems
-* [Measurement Problems: Sorting Products, Sorting Reviews](https://medium.com/@aserdargun/measurement-problems-rating-products-sorting-products-sorting-reviews-9f6567f85f8d)
+* [Rating Products](https://www.kaggle.com/code/serdargundogdu/measurement-problems-rating-products)
+* [Sorting Products](https://www.kaggle.com/code/serdargundogdu/measurement-problems-sorting-products)
+* [IMDB Application](https://www.kaggle.com/code/serdargundogdu/measurement-problems-imdb-application)
+* [Sorting Reviews](https://www.kaggle.com/code/serdargundogdu/measurement-problems-sorting-reviews)
+* [Sorting Products, Sorting Reviews](https://medium.com/@aserdargun/measurement-problems-rating-products-sorting-products-sorting-reviews-9f6567f85f8d)
 * [The Tragic Discovery of Handwashing: t-Tests and Distributions](https://www.kaggle.com/code/serdargundogdu/the-tragic-discovery-t-tests-and-distributions)
 
 ## -| Feature Engineering
@@ -36,6 +48,8 @@ You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b
 * [Multivariable Regression and Valuation: Predict House Prices](https://www.kaggle.com/code/serdargundogdu/multivariable-regression-predict-house-prices)
 * [Titanic, My First Submission on Kaggle](https://www.kaggle.com/code/serdargundogdu/my-first-submission-titanic)
 * [House Prices: Advanced Regression Techniques](https://www.kaggle.com/code/serdargundogdu/house-prices-advanced-regression-techniques)
+* [Football Talent Hunt Classification With ML](https://www.kaggle.com/code/serdargundogdu/football-talent-hunt-classification-with-ml)
+* [Customer Segmentation with Unsupervised Learning](https://www.kaggle.com/code/serdargundogdu/customer-segmentation-with-unsupervised-learning)
 ## -| Time Series
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 ## -| Natural Language Processing
