@@ -25,14 +25,14 @@ You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b
  * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
  ### --| Matplotlib
  * [Data Visualisation with Matplotlib](https://www.kaggle.com/code/serdargundogdu/data-visualisation-with-matplotlib)
- * [Beautiful Plotly Charts: Analysing the Android App Store](https://www.kaggle.com/code/serdargundogdu/beautiful-plotly-charts)
  ### --| Seaborn
  * [Linear Regression and Data Visualisation with Seaborn](https://www.kaggle.com/code/serdargundogdu/linear-regression-and-data-visualisation)
+ ### --| Plotly
+ * [Beautiful Plotly Charts: Analysing the Android App Store](https://www.kaggle.com/code/serdargundogdu/beautiful-plotly-charts)
  * [Analysing The Nobel Prize with Plotly, Matplotlib and Seaborn](https://www.kaggle.com/code/serdargundogdu/analysing-with-plotly-matplotlib-seaborn)
 ## -| CRM Analytics
   * [CRM Analytics: RFM (Recency, Frequency, Monetary) Analysis : Customer Segmentation](https://www.kaggle.com/code/serdargundogdu/rfm-analysis-customer-segmentation)
   * [CRM Analytics: BG-NBD and Gamma-Gamma Model: CLV (Customer Lifetime Value) Prediction](https://www.kaggle.com/code/serdargundogdu/bg-nbd-and-gamma-gamma-model-clv-prediction)
-## -| Recommendation Systems
 
 ## -| Measurement Problems
 * [Rating Products](https://www.kaggle.com/code/serdargundogdu/measurement-problems-rating-products)
@@ -41,6 +41,8 @@ You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b
 * [Sorting Reviews](https://www.kaggle.com/code/serdargundogdu/measurement-problems-sorting-reviews)
 * [Sorting Products, Sorting Reviews](https://medium.com/@aserdargun/measurement-problems-rating-products-sorting-products-sorting-reviews-9f6567f85f8d)
 * [The Tragic Discovery of Handwashing: t-Tests and Distributions](https://www.kaggle.com/code/serdargundogdu/the-tragic-discovery-t-tests-and-distributions)
+
+## -| Recommendation Systems
 
 ## -| Feature Engineering
 * [Feature Engineering Cookbook](https://www.kaggle.com/code/serdargundogdu/feature-engineering-cookbook)
