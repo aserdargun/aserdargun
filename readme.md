@@ -9,7 +9,9 @@ Innovator, Problem Solver, Python Geek, Data Scientist, Engineer, Lean Practitio
 I’m interested in Data Science and Python. I have a good understanding on Python. I share my growth mindset on http://www.dsml101.com 
 <p> My Future Design Of T-Shaped Data Scientist Me.
 <p> <---------------GENERALIST--------------->
-<p> C# | Java | HTML/CSS | JavaScript      
+<p> C# | Java | HTML/CSS | JavaScript  
+<p>           |Excel|
+<p>           |SQL|
 <p>           |Python|
 <p>        |Data Science|
 <p>             ^
