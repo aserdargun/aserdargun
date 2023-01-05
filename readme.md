@@ -74,4 +74,4 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 
 ## -| Production Level Data Science
 
-You can see my [Become A Data Scientist] (https://www.notion.so/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c) plan on Notion.
+You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c) plan on Notion.
