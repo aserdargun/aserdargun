@@ -5,7 +5,7 @@
 <a href="https://twitter.com/dsml101"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.tr.freelancer.com/u/aserdargun"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
 <p>👋 Hi, I’m Serdar Gundogdu.
-Innovator, Problem Solver, Python Geek, Data Scientist, Engineer, Lean Practitioner, Lean 6 Sigma Black Belt.
+<p>Innovator, Problem Solver, Python Geek, Data Scientist, Engineer, Lean Practitioner, Lean 6 Sigma Black Belt.
 I’m interested in Data Science and Python. I have a good understanding on Python. I share my growth mindset on http://www.dsml101.com 
 <p> My Future Design Of T-Shaped Data Scientist Me.
 <p> <---------------GENERALIST--------------->
