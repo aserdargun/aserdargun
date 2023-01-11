@@ -31,7 +31,7 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
  * [Named Tuples](https://medium.com/@aserdargun/python-deep-dive-8-named-tuples-d0a4b0ea0460)
  ### --| Numpy
  * [Computation with NumPy and N-Dimensional Arrays](https://www.kaggle.com/code/serdargundogdu/computation-with-numpy-and-arrays)
- ### -- [Pandas](https://xmind.works/share/7keNk109)
+ ### --| [Pandas](https://xmind.works/share/7keNk109)
  * [Data Exploration with Pandas](https://www.kaggle.com/code/serdargundogdu/data-exploration-with-pandas)
  * [Aggregate and Merge Data with Pandas](https://www.kaggle.com/code/serdargundogdu/aggregate-and-merge-data-with-pandas)
  * [Rule-Based Classification : Potential Customer Revenue Calculation with Pandas](https://medium.com/@aserdargun/data-science-rule-based-classification-potential-customer-revenue-calculation-with-pandas-most-593b3ad5602)
