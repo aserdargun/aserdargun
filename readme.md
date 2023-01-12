@@ -18,6 +18,9 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p>       SPECIALIST
 </div>
 
+Newest Share is [Introduction to The Gradient Descent Algorithm](https://www.kaggle.com/code/serdargundogdu/introduction-to-gradient-descent) 
+on 12 January 2023
+ 
 # Become a Data Scientist Series
 ## -| Python For Data Science
  ### --| [Python Deep Dive](https://github.com/aserdargun/DSML101/blob/main/python)
@@ -59,6 +62,7 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 ## -| Feature Engineering
 * [Feature Engineering Cookbook](https://www.kaggle.com/code/serdargundogdu/feature-engineering-cookbook)
 ## -| Machine Learning
+* [Introduction to The Gradient Descent Algorithm](https://www.kaggle.com/code/serdargundogdu/introduction-to-gradient-descent)
 * [Multivariable Regression and Valuation: Predict House Prices](https://www.kaggle.com/code/serdargundogdu/multivariable-regression-predict-house-prices)
 * [Titanic, My First Submission on Kaggle](https://www.kaggle.com/code/serdargundogdu/my-first-submission-titanic)
 * [House Prices: Advanced Regression Techniques](https://www.kaggle.com/code/serdargundogdu/house-prices-advanced-regression-techniques)
