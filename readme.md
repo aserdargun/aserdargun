@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/serdargundogdu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<p><a href="https://www.kaggle.com/serdargundogdu"><img src="https://camo.githubusercontent.com/de9b0bf4f2ceb982dc5082fa4d08cb3f425b8905c23d4588f6b40063e9515882/68747470733a2f2f726f61642d746f2d6b6167676c652d6772616e646d61737465722e76657263656c2e6170702f6170692f73696d706c652f61646c646f746f7269"></a>
+<p><a href="https://www.kaggle.com/serdargundogdu"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://medium.com/@aserdargun"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://twitter.com/dsml101"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.tr.freelancer.com/u/aserdargun"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
