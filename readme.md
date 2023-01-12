@@ -68,7 +68,7 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 ## -| Natural Language Processing
 
-## -| SQL Querying
+## -| [SQL Querying](https://xmind.works/share/Z6ToBIxE)
 
 ## -| Spark Machine Learning
 
