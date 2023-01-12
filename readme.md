@@ -73,6 +73,7 @@ on 12 January 2023
 ## -| Natural Language Processing
 
 ## -| [SQL Querying](https://xmind.works/share/Z6ToBIxE)
+* [Relational Algebra](https://xmind.works/share/ds75rkKM)
 
 ## -| Spark Machine Learning
 
