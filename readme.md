@@ -17,8 +17,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Spaceship Titanic: A Complete Guide](https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide) 
-on 19 January 2023
+Newest Share is [Multivariable Regression](https://www.kaggle.com/code/serdargundogdu/multivariable-regression)
+on 23 January 2023
  
 # Become a Data Scientist Series
 ## -| Python For Data Science
@@ -62,6 +62,7 @@ on 19 January 2023
 * [Feature Engineering Cookbook](https://www.kaggle.com/code/serdargundogdu/feature-engineering-cookbook)
 ## -| Machine Learning
 * [Introduction to The Gradient Descent Algorithm](https://www.kaggle.com/code/serdargundogdu/introduction-to-gradient-descent)
+* [Multivariable Regression](https://www.kaggle.com/code/serdargundogdu/multivariable-regression)
 * [Multivariable Regression and Valuation: Predict House Prices](https://www.kaggle.com/code/serdargundogdu/multivariable-regression-predict-house-prices)
 * [Titanic, My First Submission on Kaggle](https://www.kaggle.com/code/serdargundogdu/my-first-submission-titanic)
 * [House Prices: Advanced Regression Techniques](https://www.kaggle.com/code/serdargundogdu/house-prices-advanced-regression-techniques)
