@@ -17,8 +17,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Neural Nets Pre-Trained Image Classification](https://www.kaggle.com/code/serdargundogdu/neural-nets-pretrained-image-classification)
-on 01 February 2023
+Newest Share is [Neural Nets - Keras Cifar 10 Classification](https://www.kaggle.com/serdargundogdu/neural-nets-keras-cifar-10-classification)
+on 03 February 2023
  
 # Become a Data Scientist Series
 ## -| Python For Data Science
@@ -74,7 +74,8 @@ on 01 February 2023
 ## -| Natural Language Processing
 * [Naive Bayes Classifier: Filtering Spam Emails](https://www.kaggle.com/code/serdargundogdu/naive-bayes-classifier-filtering-spam-emails)
 ## -| Deep Learning
-* [Neural Nets Pre-Trained Image Classification](https://www.kaggle.com/code/serdargundogdu/neural-nets-pretrained-image-classification)
+* [Neural Nets - Pre-Trained Image Classification](https://www.kaggle.com/code/serdargundogdu/neural-nets-pretrained-image-classification)
+* [Neural Nets - Keras Cifar 10 Classification](https://www.kaggle.com/serdargundogdu/neural-nets-keras-cifar-10-classification)
 ## -| [SQL Querying](https://xmind.works/share/Z6ToBIxE)
 * [Relational Algebra](https://xmind.works/share/ds75rkKM)
 
