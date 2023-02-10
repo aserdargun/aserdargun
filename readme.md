@@ -17,8 +17,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Neural Nets - Keras Cifar 10 Classification](https://www.kaggle.com/serdargundogdu/neural-nets-keras-cifar-10-classification)
-on 03 February 2023
+Newest Share is [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
+on 11 February 2023
  
 # Become a Data Scientist Series
 ## -| Python For Data Science
@@ -71,6 +71,7 @@ on 03 February 2023
 * [Spaceship Titanic: A Complete Guide](https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide)
 ## -| Time Series
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
+* [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
 ## -| Natural Language Processing
 * [Naive Bayes Classifier: Filtering Spam Emails](https://www.kaggle.com/code/serdargundogdu/naive-bayes-classifier-filtering-spam-emails)
 ## -| Deep Learning
