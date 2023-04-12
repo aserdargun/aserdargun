@@ -18,8 +18,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Veri Bilimi Gücü Adına](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
-on 16 March 2023
+Newest Share is [Zaman Serileri](https://medium.com/@aserdargun/zaman-serileri-f1e23fe4d72d)
+on 13 April 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -70,7 +70,7 @@ on 16 March 2023
 * [Football Talent Hunt Classification With ML](https://www.kaggle.com/code/serdargundogdu/football-talent-hunt-classification-with-ml)
 * [Customer Segmentation with Unsupervised Learning](https://www.kaggle.com/code/serdargundogdu/customer-segmentation-with-unsupervised-learning)
 * [Spaceship Titanic: A Complete Guide](https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide)
-## -| Time Series
+## -| [Time Series](https://medium.com/@aserdargun/zaman-serileri-f1e23fe4d72d)
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 * [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
 ## -| Natural Language Processing
