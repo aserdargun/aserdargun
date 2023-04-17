@@ -18,8 +18,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [GDZ Enerji Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-smoothing-ve-statistiksel-z-mler#SARIMA-Model)
-on 13 April 2023
+Newest Share is [GDZ Enerji Machine Learning Solution (LightGBM)](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-makine-renmesi-lightgbm)
+on 17 April 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -74,6 +74,7 @@ on 13 April 2023
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 * [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
 * [GDZ Enerji Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-smoothing-ve-statistiksel-z-mler#SARIMA-Model)
+* [GDZ Enerji Machine Learning Solution (LightGBM)](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-makine-renmesi-lightgbm)
 ## -| Natural Language Processing
 * [Naive Bayes Classifier: Filtering Spam Emails](https://www.kaggle.com/code/serdargundogdu/naive-bayes-classifier-filtering-spam-emails)
 ## -| Deep Learning
