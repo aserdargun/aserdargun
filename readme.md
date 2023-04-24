@@ -18,8 +18,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [GDZ Energy Datathon Machine Learning Solution (Prophet)](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-makine-renmesi-prophet)
-on 23 April 2023
+Newest Share is [A Full Guide of PROPHET Model in GDZ Electric](https://www.kaggle.com/code/serdargundogdu/a-full-guide-of-prophet-model-in-gdz-elektrik)
+on 24 April 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -73,10 +73,13 @@ on 23 April 2023
 ## -| [Time Series](https://medium.com/@aserdargun/zaman-serileri-f1e23fe4d72d)
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 * [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
-* [GDZ Energy Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-smoothing-ve-statistiksel-z-mler#SARIMA-Model)
-* [GDZ Energy Datathon Machine Learning Solution (LightGBM)](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-makine-renmesi-lightgbm)
-* [GDZ Energy Datathon Machine Learning Solution Fundamental (XGBoost)](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-makine-renmesi-lk-xgboost)
-* [GDZ Energy Datathon Machine Learning Solution (Prophet)](https://www.kaggle.com/code/serdargundogdu/gdz-enerji-makine-renmesi-prophet)
+* [GDZ Electric Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-smoothing-ve-statistiksel-z-mler)
+* [GDZ Electric Datathon Machine Learning Solution (LightGBM)](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-makine-renmesi-lightgbm)
+* [GDZ Electric Datathon Machine Learning Solution Fundamental (XGBoost)](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-makine-renmesi-lk-xgboost)
+* [GDZ Electric Datathon Machine Learning Solution Advanced (XGBoost)](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-makine-renmesi-leri-xgboost)
+* [GDZ Electric Datathon Machine Learning Solution Fundamental (Prophet)](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-makine-renmesi-prophet)
+* [GDZ Electric Datathon Machine Learning Solution Advanced (Prophet)](https://www.kaggle.com/code/serdargundogdu/gdz-electric-ml-with-prophet)
+* [A Full Guide of PROPHET Model in GDZ Electric](https://www.kaggle.com/code/serdargundogdu/a-full-guide-of-prophet-model-in-gdz-elektrik)
 ## -| Natural Language Processing
 * [Naive Bayes Classifier: Filtering Spam Emails](https://www.kaggle.com/code/serdargundogdu/naive-bayes-classifier-filtering-spam-emails)
 ## -| Deep Learning
