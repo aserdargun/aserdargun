@@ -18,8 +18,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [A Full Guide of PROPHET Model in GDZ Electric](https://www.kaggle.com/code/serdargundogdu/a-full-guide-of-prophet-model-in-gdz-elektrik)
-on 24 April 2023
+Newest Share is [Popular Big Data Technologies - CHATGPT](https://medium.com/@aserdargun/popular-big-data-technologies-chatgpt-710c62b998eb)
+on 27 April 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -89,6 +89,7 @@ on 24 April 2023
 * [Relational Algebra](https://xmind.works/share/ds75rkKM)
 
 ## -| Spark Machine Learning
+* [Popular Big Data Technologies - CHATGPT](https://medium.com/@aserdargun/popular-big-data-technologies-chatgpt-710c62b998eb)
 
 ## -| Production Level Data Science
 
