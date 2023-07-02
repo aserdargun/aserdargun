@@ -18,8 +18,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Popular Big Data Technologies - CHATGPT](https://medium.com/@aserdargun/popular-big-data-technologies-chatgpt-710c62b998eb)
-on 27 April 2023
+Newest Share is [A Full Guide of XGBoost](https://medium.com/@aserdargun/a-full-guide-of-xgboost-35244059669c)
+on 02 July 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -80,6 +80,7 @@ on 27 April 2023
 * [GDZ Electric Datathon Machine Learning Solution Fundamental (Prophet)](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-makine-renmesi-prophet)
 * [GDZ Electric Datathon Machine Learning Solution Advanced (Prophet)](https://www.kaggle.com/code/serdargundogdu/gdz-electric-ml-with-prophet)
 * [A Full Guide of PROPHET Model in GDZ Electric](https://www.kaggle.com/code/serdargundogdu/a-full-guide-of-prophet-model-in-gdz-elektrik)
+* [A Full Guide of XGBoost](https://medium.com/@aserdargun/a-full-guide-of-xgboost-35244059669c)
 ## -| Natural Language Processing
 * [Naive Bayes Classifier: Filtering Spam Emails](https://www.kaggle.com/code/serdargundogdu/naive-bayes-classifier-filtering-spam-emails)
 ## -| Deep Learning
