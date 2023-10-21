@@ -94,4 +94,4 @@ on 16 October 2023
 
 ## -| Production Level Data Science
 
-You can see my [Become A Data Scientist](https://www.notion.so/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c) plan on Notion.
+You can see my [Become A Data Scientist](https://far-runner-c38.notion.site/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c?pvs=4) plan on Notion.
