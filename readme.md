@@ -18,8 +18,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Structures in C](https://medium.com/@aserdargun/c-structures-struct-0c9f6440ec1e)
-on 26 October 2023
+Newest Share is [Introduction to C - type definitions: typedef](https://medium.com/@aserdargun/introduction-to-c-type-definitions-typedef-d5da6f7d8816)
+on 27 October 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -95,7 +95,8 @@ on 26 October 2023
 ## -| Production Level Data Science
 
 ## -| Fundamental Computer Science Knowledges
-* [Pointers in C](https://medium.com/@aserdargun/pointers-in-c-aa206ee00402)
-* [Structures in C](https://medium.com/@aserdargun/c-structures-struct-0c9f6440ec1e)
+* [Intorduction to C - Pointers in C](https://medium.com/@aserdargun/pointers-in-c-aa206ee00402)
+* [Introduction to C - Structures in C](https://medium.com/@aserdargun/c-structures-struct-0c9f6440ec1e)
+* [Introduction to C - type definitions: typedef](https://medium.com/@aserdargun/introduction-to-c-type-definitions-typedef-d5da6f7d8816)
 
 You can see my [Become A Data Scientist](https://far-runner-c38.notion.site/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c?pvs=4) plan on Notion.
