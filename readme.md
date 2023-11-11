@@ -20,7 +20,7 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 </div>
 
 Newest Share is [Deep Learning](https://github.com/aserdargun/DSML101/tree/main/tensorflow)
-on 30 October 2023
+on 11 November 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
