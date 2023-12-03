@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Deep Learning](https://github.com/aserdargun/DSML101/tree/main/tensorflow)
-on 11 November 2023
+Newest Share is [Time Series Fundamentals in TensorFlow](https://medium.com/@aserdargun/time-series-fundamentals-in-tensorflow-be9ad6be0b22)
+on 03 December 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -87,6 +87,7 @@ on 11 November 2023
 ## -| [Deep Learning](https://github.com/aserdargun/DSML101/tree/main/tensorflow)
 * [Neural Nets - Pre-Trained Image Classification](https://www.kaggle.com/code/serdargundogdu/neural-nets-pretrained-image-classification)
 * [Neural Nets - Keras Cifar 10 Classification](https://www.kaggle.com/serdargundogdu/neural-nets-keras-cifar-10-classification)
+* [Time Series Fundamentals in TensorFlow](https://medium.com/@aserdargun/time-series-fundamentals-in-tensorflow-be9ad6be0b22)
 ## -| [SQL Querying](https://xmind.works/share/Z6ToBIxE)
 * [Relational Algebra](https://xmind.works/share/ds75rkKM)
 
