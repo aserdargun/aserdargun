@@ -24,6 +24,7 @@ on 03 December 2023
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
+* [Write to Clean Python Code](https://medium.com/@aserdargun/write-to-clean-python-code-4391a3db26e6)
  ### --| [Python Deep Dive](https://github.com/aserdargun/DSML101/blob/main/python)
  * [Identifier Names](https://medium.com/@aserdargun/python-deep-dive-identifier-names-92ec00a35b0a)
  * [Variables and Memory](https://medium.com/@aserdargun/python-deep-dive-variables-and-memory-1c3f7c55d13)
@@ -100,5 +101,6 @@ on 03 December 2023
 * [Intorduction to C - Pointers in C](https://medium.com/@aserdargun/pointers-in-c-aa206ee00402)
 * [Introduction to C - Structures in C](https://medium.com/@aserdargun/c-structures-struct-0c9f6440ec1e)
 * [Introduction to C - Type definitions: typedef](https://medium.com/@aserdargun/introduction-to-c-type-definitions-typedef-d5da6f7d8816)
+* [UML Diagrams](https://medium.com/@aserdargun/uml-diagrams-7903213b6dd6)
 
 You can see my [Become A Data Scientist](https://far-runner-c38.notion.site/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c?pvs=4) plan on Notion.
