@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [S.O.L.I.D. Design Principles in Python](https://medium.com/@aserdargun/s-o-l-i-d-design-principles-in-python-e632230d6bbe)
-on 07 January 2024
+Newest Share is [Advanced OOP in Python](https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291)
+on 14 January 2024
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -103,5 +103,6 @@ on 07 January 2024
 * [Introduction to C - Type definitions: typedef](https://medium.com/@aserdargun/introduction-to-c-type-definitions-typedef-d5da6f7d8816)
 * [UML Diagrams](https://medium.com/@aserdargun/uml-diagrams-7903213b6dd6)
 * [S.O.L.I.D. Design Principles in Python](https://medium.com/@aserdargun/s-o-l-i-d-design-principles-in-python-e632230d6bbe)
+* [Advanced OOP in Python](https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291)
 
 You can see my [Become A Data Scientist](https://far-runner-c38.notion.site/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c?pvs=4) plan on Notion.
