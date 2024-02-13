@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Advanced OOP in Python](https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291)
-on 14 January 2024
+Newest Share is [Introduction to Linux](https://medium.com/p/f20e68de3e59)
+on 13 February 2024
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -104,5 +104,6 @@ on 14 January 2024
 * [UML Diagrams](https://medium.com/@aserdargun/uml-diagrams-7903213b6dd6)
 * [S.O.L.I.D. Design Principles in Python](https://medium.com/@aserdargun/s-o-l-i-d-design-principles-in-python-e632230d6bbe)
 * [Advanced OOP in Python](https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291)
+* [Introduction to Linux](https://medium.com/p/f20e68de3e59)
 
 You can see my [Become A Data Scientist](https://far-runner-c38.notion.site/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c?pvs=4) plan on Notion.
