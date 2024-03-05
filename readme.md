@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Introduction to Linux](https://medium.com/p/f20e68de3e59)
-on 13 February 2024
+Newest Share is [Feature Engineering for Time Series Forecasting](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-22a4d1d1f2f4)
+on 05 March 2024
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -73,6 +73,7 @@ on 13 February 2024
 * [Customer Segmentation with Unsupervised Learning](https://www.kaggle.com/code/serdargundogdu/customer-segmentation-with-unsupervised-learning)
 * [Spaceship Titanic: A Complete Guide](https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide)
 ## -| [Time Series](https://medium.com/@aserdargun/zaman-serileri-f1e23fe4d72d)
+* [Feature Engineering for Time Series Forecasting](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-22a4d1d1f2f4)
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 * [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
 * [GDZ Electric Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-smoothing-ve-statistiksel-z-mler)
