@@ -63,6 +63,7 @@ on 05 March 2024
 
 ## -| Feature Engineering
 * [Feature Engineering Cookbook](https://www.kaggle.com/code/serdargundogdu/feature-engineering-cookbook)
+* [Feature Engineering for Time Series Forecasting](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-22a4d1d1f2f4)
 ## -| Machine Learning
 * [Introduction to The Gradient Descent Algorithm](https://www.kaggle.com/code/serdargundogdu/introduction-to-gradient-descent)
 * [Multivariable Regression](https://www.kaggle.com/code/serdargundogdu/multivariable-regression)
@@ -73,7 +74,6 @@ on 05 March 2024
 * [Customer Segmentation with Unsupervised Learning](https://www.kaggle.com/code/serdargundogdu/customer-segmentation-with-unsupervised-learning)
 * [Spaceship Titanic: A Complete Guide](https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide)
 ## -| [Time Series](https://medium.com/@aserdargun/zaman-serileri-f1e23fe4d72d)
-* [Feature Engineering for Time Series Forecasting](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-22a4d1d1f2f4)
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 * [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
 * [GDZ Electric Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-smoothing-ve-statistiksel-z-mler)
