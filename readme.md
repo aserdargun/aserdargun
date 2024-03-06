@@ -19,7 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Feature Engineering for Time Series Forecasting](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-22a4d1d1f2f4)
+Newest Share are [Feature Engineering for Time Series Forecasting-1](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-1-2b5215862e31)
+and [Feature Engineering for Time Series Forecasting-2](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-2-cfab73157ead)
 on 05 March 2024
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
@@ -63,7 +64,8 @@ on 05 March 2024
 
 ## -| Feature Engineering
 * [Feature Engineering Cookbook](https://www.kaggle.com/code/serdargundogdu/feature-engineering-cookbook)
-* [Feature Engineering for Time Series Forecasting](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-22a4d1d1f2f4)
+* [Feature Engineering for Time Series Forecasting-1](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-1-2b5215862e31)
+* [Feature Engineering for Time Series Forecasting-2](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-2-cfab73157ead)
 ## -| Machine Learning
 * [Introduction to The Gradient Descent Algorithm](https://www.kaggle.com/code/serdargundogdu/introduction-to-gradient-descent)
 * [Multivariable Regression](https://www.kaggle.com/code/serdargundogdu/multivariable-regression)
