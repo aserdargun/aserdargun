@@ -19,9 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share are [Feature Engineering for Time Series Forecasting-1](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-1-2b5215862e31)
-and [Feature Engineering for Time Series Forecasting-2](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-2-cfab73157ead)
-on 05 March 2024
+Newest Share are [Data Scientist Evolution for Time Series With 61 Libraries and Task List in 2024](https://medium.com/@aserdargun/data-scientist-evolution-for-time-series-with-61-libraries-and-task-list-in-2024-fc0a6718d326)
+on 21 May 2024
  
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -64,8 +63,6 @@ on 05 March 2024
 
 ## -| Feature Engineering
 * [Feature Engineering Cookbook](https://www.kaggle.com/code/serdargundogdu/feature-engineering-cookbook)
-* [Feature Engineering for Time Series Forecasting-1](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-1-2b5215862e31)
-* [Feature Engineering for Time Series Forecasting-2](https://medium.com/@aserdargun/feature-engineering-for-time-series-forecasting-2-cfab73157ead)
 ## -| Machine Learning
 * [Introduction to The Gradient Descent Algorithm](https://www.kaggle.com/code/serdargundogdu/introduction-to-gradient-descent)
 * [Multivariable Regression](https://www.kaggle.com/code/serdargundogdu/multivariable-regression)
@@ -76,6 +73,7 @@ on 05 March 2024
 * [Customer Segmentation with Unsupervised Learning](https://www.kaggle.com/code/serdargundogdu/customer-segmentation-with-unsupervised-learning)
 * [Spaceship Titanic: A Complete Guide](https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide)
 ## -| [Time Series](https://medium.com/@aserdargun/zaman-serileri-f1e23fe4d72d)
+* [Data Scientist Evolution for Time Series With 61 Libraries and Task List in 2024](https://medium.com/@aserdargun/data-scientist-evolution-for-time-series-with-61-libraries-and-task-list-in-2024-fc0a6718d326)
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 * [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
 * [GDZ Electric Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-smoothing-ve-statistiksel-z-mler)
