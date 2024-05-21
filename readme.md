@@ -73,7 +73,7 @@ on 21 May 2024
 * [Customer Segmentation with Unsupervised Learning](https://www.kaggle.com/code/serdargundogdu/customer-segmentation-with-unsupervised-learning)
 * [Spaceship Titanic: A Complete Guide](https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide)
 ## -| [Time Series](https://medium.com/@aserdargun/zaman-serileri-f1e23fe4d72d)
-* [Data ScienceEvolution for Time Series With 61 Libraries and Task List in 2024](https://medium.com/@aserdargun/data-scientist-evolution-for-time-series-with-61-libraries-and-task-list-in-2024-fc0a6718d326)
+* [Data Science Evolution for Time Series With 61 Libraries and Task List in 2024](https://medium.com/@aserdargun/data-scientist-evolution-for-time-series-with-61-libraries-and-task-list-in-2024-fc0a6718d326)
 * [Resampling and Visualising Time Series](https://www.kaggle.com/code/serdargundogdu/resampling-and-visualising-time-series)
 * [Forecasting Bus Demand with Time Series](https://www.kaggle.com/code/serdargundogdu/forecasting-bus-demand-with-time-series)
 * [GDZ Electric Datathlon Smoothing and Statistical Methods](https://www.kaggle.com/code/serdargundogdu/gdz-elektrik-smoothing-ve-statistiksel-z-mler)
