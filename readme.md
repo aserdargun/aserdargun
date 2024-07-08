@@ -19,9 +19,9 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share are [Data Science Evolution for Time Series With 61 Libraries and Task List in 2024](https://medium.com/@aserdargun/data-scientist-evolution-for-time-series-with-61-libraries-and-task-list-in-2024-fc0a6718d326)
-on 21 May 2024
- 
+Newest Share is [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
+on 08 July 2024
+# [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
 * [Write to Clean Python Code](https://medium.com/@aserdargun/write-to-clean-python-code-4391a3db26e6)
