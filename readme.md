@@ -98,7 +98,7 @@ on 28 July 2024
 
 ## -| Production Level Data Science
 
-## -| CLoud Computing
+## -| Cloud Computing
 * [AWS Cloud Practitioner-Infographics](https://medium.com/@aserdargun/aws-cloud-practitioner-infographics-9de5c6514e79)
 
 ## -| Fundamental Computer Science Knowledges
