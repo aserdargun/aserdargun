@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
-on 08 July 2024
+Newest Share is [AWS Cloud Practitioner-Infographics](https://medium.com/@aserdargun/aws-cloud-practitioner-infographics-9de5c6514e79)
+on 28 July 2024
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -97,6 +97,9 @@ on 08 July 2024
 * [Popular Big Data Technologies - CHATGPT](https://medium.com/@aserdargun/popular-big-data-technologies-chatgpt-710c62b998eb)
 
 ## -| Production Level Data Science
+
+## -| CLoud Computing
+* [AWS Cloud Practitioner-Infographics](https://medium.com/@aserdargun/aws-cloud-practitioner-infographics-9de5c6514e79)
 
 ## -| Fundamental Computer Science Knowledges
 * [Intorduction to C - Pointers in C](https://medium.com/@aserdargun/pointers-in-c-aa206ee00402)
