@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Design Patterns in Python Cheat Sheet](https://medium.com/@aserdargun/design-patterns-in-python-cheat-sheet-0794766129f5)
-on 14 August 2024
+Newest Share is [Python Coding Concepts](https://medium.com/@aserdargun/python-coding-concepts-c1d7769c3284)
+on 22 August 2024
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -34,6 +34,7 @@ on 14 August 2024
  * [Free Variables and Closures](https://medium.com/@aserdargun/python-deep-dive-6-free-variables-and-closures-ef14d3e51209)
  * [Decorators](https://medium.com/@aserdargun/python-deep-dive-7-decorators-db5ca724dbaa)
  * [Named Tuples](https://medium.com/@aserdargun/python-deep-dive-8-named-tuples-d0a4b0ea0460)
+ * [Python Coding Concepts](https://medium.com/@aserdargun/python-coding-concepts-c1d7769c3284)
  ### --| Numpy
  * [Computation with NumPy and N-Dimensional Arrays](https://www.kaggle.com/code/serdargundogdu/computation-with-numpy-and-arrays)
  ### --| [Pandas](https://xmind.works/share/7keNk109)
