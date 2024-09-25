@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Python Coding Concepts](https://medium.com/@aserdargun/python-coding-concepts-c1d7769c3284)
-on 22 August 2024
+Newest Share is [OSI Model Deep Dive](https://medium.com/@aserdargun/osi-model-deep-dive-0a8fe5596e11)
+on 25 September 2024
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -112,5 +112,6 @@ on 22 August 2024
 * [Advanced OOP in Python](https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291)
 * [Design Patterns in Python Cheat Sheet](https://medium.com/@aserdargun/design-patterns-in-python-cheat-sheet-0794766129f5)
 * [Introduction to Linux](https://medium.com/p/f20e68de3e59)
+* [OSI Model Deep Dive](https://medium.com/@aserdargun/osi-model-deep-dive-0a8fe5596e11)
 
 You can see my [Become A Data Scientist](https://far-runner-c38.notion.site/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c?pvs=4) plan on Notion.
