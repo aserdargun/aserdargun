@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [OSI Model Deep Dive](https://medium.com/@aserdargun/osi-model-deep-dive-0a8fe5596e11)
-on 25 September 2024
+Newest Share is [Computer Science explained](https://medium.com/@aserdargun/computer-science-explained-6d316d2c0be8)
+on 29 September 2024
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -104,7 +104,8 @@ on 25 September 2024
 * [AWS Certified Cloud Practitioner Exam Prep Transcripts](https://medium.com/@aserdargun/aws-certified-cloud-practitioner-exam-prep-transcripts-b6e445990dab)
 
 ## -| Fundamental Computer Science Knowledges
-* [Intorduction to C - Pointers in C](https://medium.com/@aserdargun/pointers-in-c-aa206ee00402)
+* [Computer Science explained](https://medium.com/@aserdargun/computer-science-explained-6d316d2c0be8)
+* [Introduction to C - Pointers in C](https://medium.com/@aserdargun/pointers-in-c-aa206ee00402)
 * [Introduction to C - Structures in C](https://medium.com/@aserdargun/c-structures-struct-0c9f6440ec1e)
 * [Introduction to C - Type definitions: typedef](https://medium.com/@aserdargun/introduction-to-c-type-definitions-typedef-d5da6f7d8816)
 * [UML Diagrams](https://medium.com/@aserdargun/uml-diagrams-7903213b6dd6)
