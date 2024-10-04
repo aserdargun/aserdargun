@@ -19,8 +19,8 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Computer Science explained](https://medium.com/@aserdargun/computer-science-explained-6d316d2c0be8)
-on 29 September 2024
+Newest Share is [Microsoft Certified: Azure Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-fundamentals-eda7d38f880c)
+on 04 October 2024
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
@@ -102,6 +102,7 @@ on 29 September 2024
 ## -| Cloud Computing
 * [AWS Cloud Practitioner-Infographics](https://medium.com/@aserdargun/aws-cloud-practitioner-infographics-9de5c6514e79)
 * [AWS Certified Cloud Practitioner Exam Prep Transcripts](https://medium.com/@aserdargun/aws-certified-cloud-practitioner-exam-prep-transcripts-b6e445990dab)
+* [Microsoft Certified: Azure Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-fundamentals-eda7d38f880c)
 
 ## -| Fundamental Computer Science Knowledges
 * [Computer Science explained](https://medium.com/@aserdargun/computer-science-explained-6d316d2c0be8)
