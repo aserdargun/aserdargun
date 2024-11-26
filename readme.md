@@ -19,7 +19,7 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Google Cloud Digital Leader Learning Path](https://medium.com/@aserdargun/google-cloud-digital-leader-learning-path-0b45fb756a04) on 02 November 2024
+Newest Share is [A Cloud Technology Journey in 2024](https://medium.com/@aserdargun/a-cloud-technology-journey-in-2024-eceec4ef482 on 26 November 2024
 
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
@@ -104,6 +104,7 @@ Newest Share is [Google Cloud Digital Leader Learning Path](https://medium.com/@
 * [AWS Certified Cloud Practitioner Exam Prep Transcripts](https://medium.com/@aserdargun/aws-certified-cloud-practitioner-exam-prep-transcripts-b6e445990dab)
 * [Microsoft Certified: Azure Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-fundamentals-eda7d38f880c)
 * [Google Cloud Digital Leader Learning Path](https://medium.com/@aserdargun/google-cloud-digital-leader-learning-path-0b45fb756a04)
+* [A Cloud Technology Journey in 2024](https://medium.com/@aserdargun/a-cloud-technology-journey-in-2024-eceec4ef4822)
 
 ## -| Fundamental Computer Science Knowledges
 * [Computer Science explained](https://medium.com/@aserdargun/computer-science-explained-6d316d2c0be8)
