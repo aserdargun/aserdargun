@@ -19,8 +19,9 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Predictive Maintenance with Unsupervised Machine Learning Algorithms](https://medium.com/@aserdargun/predictive-maintenance-with-unsupervised-machine-learning-algorithms-19d4f4dd6040) on 01 December 2024
+Newest Share is [Build Professional Skills in Computer Science and Data Science in 2025](https://medium.com/@aserdargun/build-professional-skills-in-computer-science-and-data-science-in-2025-c6d363c23c43) on 05 January 2025
 
+# [Build Professional Skills in Computer Science and Data Science in 2025](https://medium.com/@aserdargun/build-professional-skills-in-computer-science-and-data-science-in-2025-c6d363c23c43)
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
 # [Become a Data Scientist Series](https://medium.com/@aserdargun/veri-bilimi-g%C3%BCc%C3%BC-ad%C4%B1na-6500db752927)
 ## -| Python For Data Science
