@@ -19,7 +19,7 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Microsoft Certified: Azure Data Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-data-fundamentals-41c5e52d0b60) on 08 January 2025
+Newest Share is [Microsoft Certified: Azure AI Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-ai-fundamentals-00b1ae7cc506) on 09 February 2025
 
 # [Build Professional Skills in Computer Science and Data Science in 2025](https://medium.com/@aserdargun/build-professional-skills-in-computer-science-and-data-science-in-2025-c6d363c23c43)
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
@@ -111,6 +111,7 @@ Newest Share is [Microsoft Certified: Azure Data Fundamentals](https://medium.co
 * [Google Cloud Digital Leader Learning Path](https://medium.com/@aserdargun/google-cloud-digital-leader-learning-path-0b45fb756a04)
 * [A Cloud Technology Journey in 2024](https://medium.com/@aserdargun/a-cloud-technology-journey-in-2024-eceec4ef4822)
 * [Microsoft Certified: Azure Data Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-data-fundamentals-41c5e52d0b60)
+* [Microsoft Certified: Azure AI Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-ai-fundamentals-00b1ae7cc506)
 
 ## -| Fundamental Computer Science Knowledges
 * [Computer Science explained](https://medium.com/@aserdargun/computer-science-explained-6d316d2c0be8)
