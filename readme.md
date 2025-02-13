@@ -19,7 +19,7 @@ I’m interested in Data Science and Python. I have a good understanding on Pyth
 <p><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-Newest Share is [Microsoft Certified: Azure AI Fundamentals](https://medium.com/@aserdargun/microsoft-certified-azure-ai-fundamentals-00b1ae7cc506) on 09 February 2025
+Newest Share is [GitHub Foundations Certification](https://medium.com/@aserdargun/github-foundations-certification-2508d08d642e) on 13 February 2025
 
 # [Build Professional Skills in Computer Science and Data Science in 2025](https://medium.com/@aserdargun/build-professional-skills-in-computer-science-and-data-science-in-2025-c6d363c23c43)
 # [How will you be a full-stack Data Scientist in 2024?](https://medium.com/@aserdargun/how-will-you-become-a-full-stack-data-scientist-in-2024-d1cecb471782)
@@ -124,5 +124,6 @@ Newest Share is [Microsoft Certified: Azure AI Fundamentals](https://medium.com/
 * [Design Patterns in Python Cheat Sheet](https://medium.com/@aserdargun/design-patterns-in-python-cheat-sheet-0794766129f5)
 * [Introduction to Linux](https://medium.com/p/f20e68de3e59)
 * [OSI Model Deep Dive](https://medium.com/@aserdargun/osi-model-deep-dive-0a8fe5596e11)
+* [GitHub Foundations Certification](https://medium.com/@aserdargun/github-foundations-certification-2508d08d642e) 
 
 You can see my [Become A Data Scientist](https://far-runner-c38.notion.site/Serdar-Gundogdu-b92da615b2fa44febb2dd5077ee3a67c?pvs=4) plan on Notion.
